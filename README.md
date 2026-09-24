@@ -7,11 +7,7 @@ University of California, Davis
 (c) Rajeevan Amirtharajah 2026
 
 ---
-## Efficiency
-
-Lecture 1
-
-September 26, 2026
+## Lecture 1 (September 26, 2026): Efficiency
 
 Given the following battery voltage and current,
 
