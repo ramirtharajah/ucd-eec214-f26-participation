@@ -8,7 +8,9 @@ University of California, Davis
 
 ---
 ## Efficiency
+
 Lecture 1
+
 September 26, 2026
 
 Given the following battery voltage and current,
