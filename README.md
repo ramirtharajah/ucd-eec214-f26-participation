@@ -11,7 +11,9 @@ University of California, Davis
 
 Given the following battery voltage and current,
 
-$V_{IN} = 4.1\ \textrm{V}$
+$$
+V_{IN} = 4.1\ \textrm{V}
+$$
 
 $I_{IN} = 23.3\ \textrm{mA}$
 
